@@ -4,7 +4,7 @@ Generate feed with product data.
 
 ## Installations
 ```
-composer require run_as_root/ext-magento2-google-shopping-feed
+composer require jreinke/magento2-google-shopping-feed
 bin/magento setup:upgrade
 ```
 
